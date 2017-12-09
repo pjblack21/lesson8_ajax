@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/8/17
 
 ### Student Name:  
-(First and Last Name)
+patrick beverly
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+creating a movie database. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pjblack21.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. learned that json is javascritp object notation
+2. learned how to use AJAX
+3. learned how to use json
